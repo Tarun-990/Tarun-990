@@ -15,6 +15,8 @@ Font: JetBrains Mono
 ![Year](https://img.shields.io/badge/Batch-2027-FFB000?style=flat-square&labelColor=0D1117)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tarun--990-FFB000?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/Tarun-990)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--pundhir-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/tarun-pundhir-9b8967288)
+[![Email](https://img.shields.io/badge/Email-tarunpundhir0910%40gmail.com-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:tarunpundhir0910@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Tarun__Pundhir-FFB000?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/Tarun_Pundhir/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tarun-990&color=FFB000&style=flat-square&label=Profile+Views)
@@ -245,6 +247,8 @@ current_focus:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tarun--990-FFB000?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/Tarun-990)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--pundhir-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/tarun-pundhir-9b8967288)
+[![Email](https://img.shields.io/badge/Email-tarunpundhir0910%40gmail.com-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:tarunpundhir0910@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Tarun__Pundhir-FFB000?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/Tarun_Pundhir/)
 
 *"Turning problems into pull requests, one commit at a time."*
