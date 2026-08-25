@@ -3,6 +3,11 @@ Design Direction: Amber CRT Terminal
 Palette: Background #0D1117 | Accent #FFB000 | Text #E6EDF3
 Font: JetBrains Mono
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Tarun-990's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 <div align="center">
 
